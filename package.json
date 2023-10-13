@@ -11,6 +11,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ale-augustin/payloadTools.git"
+  },
   "activationEvents": [
     "onCommand:payloadtools.payloadprettify.changeToXML"
   ],
