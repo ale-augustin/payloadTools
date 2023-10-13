@@ -2,7 +2,7 @@
   "name": "payloadprettify",
   "displayName": "PayloadPrettify",
   "description": "Working with payloads in formats like .dat, .cxml, and .idoc can be cumbersome. PayloadPrettify seeks to simplify this process for developers and analysts alike. With just a few clicks, transform your payload files into a more standardized and readable XML format directly within Visual Studio Code.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ale-augustin",
   "icon":"./images/icon.png",
   "engines": {
