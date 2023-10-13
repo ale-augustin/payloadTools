@@ -8,7 +8,8 @@
   - Easily convert varying payload formats into a standardized and reader-friendly XML.
   - The feature first linearizes the XML for improved manageability and then applies thorough XML formatting.
 
-  ![Demonstration](https://imgur.com/a/sgxT95k)
+  ![Demonstration](https://github.com/ale-augustin/payloadTools/assets/3483555/f9b91979-84d8-407b-b212-db6568b0330d)
+
 
 ## Requirements
 

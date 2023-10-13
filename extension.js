@@ -4,7 +4,7 @@ const path = require('path');      // Import the path module
 
 function activate(context) {
     // Register a new command with the command ID 'payloadtools.payloadprettify.changeToXML'
-    let disposable = vscode.commands.registerCommand('aleaugus.payloadprettify.changeToXML', function () {
+    let disposable = vscode.commands.registerCommand('payloadtools.payloadprettify.changeToXML', function () {
         // Get the active text editor
         let editor = vscode.window.activeTextEditor;
 
