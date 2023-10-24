@@ -7,9 +7,10 @@
 - **Payload to Prettified XML**: 
   - Easily convert varying payload formats into a standardized and reader-friendly XML.
   - The feature first linearizes the XML for improved manageability and then applies thorough XML formatting.
+  - Unique filename generation to avoid overwriting existing XML files.
+  - Optimized tab management post-conversion for smoother user experience.
 
   ![Demonstration](https://github.com/ale-augustin/payloadTools/assets/3483555/f9b91979-84d8-407b-b212-db6568b0330d)
-
 
 ## Requirements
 
@@ -28,6 +29,15 @@ As of now, there aren't any user-specific settings required for this extension. 
   - For any issues arising related to XML formatting, ensure XML Tools remains active and properly functioning.
 
 ## Release Notes
+
+### Version 1.0.2
+
+- Added capability to handle scenarios when a document with the desired XML name already exists.
+- Introduced functionality to close the original tab after conversion.
+
+### Version 1.0.1
+
+- Feature added to check for unsaved files, ensuring the user has saved their file before attempting to convert it to XML.
 
 ### Version 1.0.0
 
